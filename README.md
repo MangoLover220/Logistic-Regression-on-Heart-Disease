@@ -1,0 +1,1 @@
+This folder contains a dataset listing medical informtation such as a patients age, sex, blood pressure, heart rates, cholesterol levels, etc. as well as a Python program where I use logistic regression to find correlations between these variables.
